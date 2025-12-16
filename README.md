@@ -51,7 +51,8 @@ For the second query, "Pattern of sale Over Time",the time series pivots reveal 
 - 2012 vs 2011: Revenue ▼2.8%, Orders ▲7.1%.
 - 2013 vs 2012: Revenue ▲29.3%, Orders ▲26.2%.
 - 2014 vs 2013: Revenue ▲20.6%, Orders ▲29.2%.
-Monthly trends show that 2013’s uplift was broad‑based, with strong increases in February, May, October, and December. This uplift was not a seasonal spike but shows a structural shift in strategy.
+  
+**Insight:** Monthly trends show that 2013’s uplift was broad‑based, with strong increases in February, May, October, and December. This uplift was not a seasonal spike but shows a structural shift in strategy.
 
 #### 3. Customer Segments 
 <img width="926" height="661" src="Images/By CX-CAT.png" alt="Customer Segment">
