@@ -67,7 +67,7 @@ Customer breakdown reveals who drives sales:
 
 #### 4. Product Categories
 
-Lastly to find out which product categories make the most sales, category pivot table was created to reveal the the backbone of revenue:
+To find out which product categories make the most sales, category pivot table was created to reveal the the backbone of revenue:
 - 2012: Furniture $170.5K, Technology $162.8K, Office Supplies $137.2K.
 - 2013: Technology $226.1K (+39%), Office Supplies $183.5K (+34%), Furniture $198.9K (+17%).
 - 2014: Technology $272K, Office Supplies $246.5K, Furniture $215.4K.
@@ -77,7 +77,7 @@ Lastly to find out which product categories make the most sales, category pivot 
 #### 5. Regional Breakdown 
 <img width="726" height="461" src="images/Cases across ptnts.png" alt="Case severity across patients">
 
-To find out which regions/states have strongholds or large customer bases
+Lastly, to find out which regions/states have strongholds or large customer bases
 Regional pivots highlight geographic strengths:
 - 2012: East $156.3K, West $140K, Central $102.9K, South $71.4K.
 - 2013: East $180.5K (+15%), West $187K (+34%), Central $147.4K (+43%), South $93.5K (+31%).
