@@ -18,13 +18,13 @@ The aim of this project was to design a dashboard that translates raw sales data
 ## Methodology
 **Data preparation:** Cleaned the dates in the dataset ensuring the date columns had the right datatype, removed irrelevant fields from the dataset, and built a Date Table for YOY analysis.
 
-** Pivot construction:** Monthly revenue, orders, quantity, discount, product categories, customer segments, and regions.
+**Pivot construction:** Monthly revenue, orders, quantity, discount, product categories, customer segments, and regions.
 
-** Added Measures:** Defined KPIs (Revenue, Profit, Orders, Discount, Quantity) and YOY metrics.
+**Added Measures:** Defined KPIs (Revenue, Profit, Orders, Discount, Quantity) and YOY metrics.
 
-** Dashboard design:** Balanced detail with readability, using KPI cards for quick insights and charts for context.
+**Dashboard design:** Balanced detail with readability, using KPI cards for quick insights and charts for context.
 
-** Validation:** Cross‑checked totals across pivots to ensure consistency.
+**Validation:** Cross‑checked totals across pivots to ensure consistency.
 
 
 ## Analysis
@@ -102,9 +102,9 @@ Together, these factors show that 2013 marked a strategic inflection point. Insc
 
 
 ## Recommendations
-- Product Strategy: - Inscribed should place deliberate emphasis on Technology and Office Supplies, which consistently outperformed Furniture and became the company’s growth engines. Technology, in particular, showed the strongest trajectory, rising from $162K in 2012 to $272K in 2014.
-- Strengthen Other Segments: - While Consumers remain the largest segment, the Corporate and Home Office segments demonstrated the fastest growth, with Corporate expanding by 61% in 2013 alone. Strengthening these segments will diversify the customer base and reduce reliance on Consumers.
-- Regional Strategy: - The Central and West regions emerged as new strongholds, showing growth rates of 43% and 34% respectively in 2013. By investing in store presence, marketing, or partnerships in these geographies, Inscribed can capitalize on momentum and establish dominance in areas where competitors may be weaker.
+- Product Strategy: Inscribed should place deliberate emphasis on Technology and Office Supplies, which consistently outperformed Furniture and became the company’s growth engines. Technology, in particular, showed the strongest trajectory, rising from $162K in 2012 to $272K in 2014.
+- Strengthen Other Segments: While Consumers remain the largest segment, the Corporate and Home Office segments demonstrated the fastest growth, with Corporate expanding by 61% in 2013 alone. Strengthening these segments will diversify the customer base and reduce reliance on Consumers.
+- Regional Strategy: The Central and West regions emerged as new strongholds, showing growth rates of 43% and 34% respectively in 2013. By investing in store presence, marketing, or partnerships in these geographies, Inscribed can capitalize on momentum and establish dominance in areas where competitors may be weaker.
 - Seasonality: Revenue peaks in Q4, especially November and December. Planning promotions and campaigns towards this quarter can be a strategic window where the company can capture disproportionate gains.
 - Replication: Replicating the conditions that helped drive a boost in performance in 2013, whether through product bundling, regional targeting, or segment‑specific campaigns will help sustain growth in future years.
 
