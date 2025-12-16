@@ -17,9 +17,13 @@ The aim of this project was to design a dashboard that translates raw sales data
 
 ## Methodology
 **Data preparation:** Cleaned the dates in the dataset ensuring the date columns had the right datatype, removed irrelevant fields from the dataset, and built a Date Table for YOY analysis.
+
 ** Pivot construction:** Monthly revenue, orders, quantity, discount, product categories, customer segments, and regions.
+
 ** Added Measures:** Defined KPIs (Revenue, Profit, Orders, Discount, Quantity) and YOY metrics.
+
 ** Dashboard design:** Balanced detail with readability, using KPI cards for quick insights and charts for context.
+
 ** Validation:** Cross‑checked totals across pivots to ensure consistency.
 
 
