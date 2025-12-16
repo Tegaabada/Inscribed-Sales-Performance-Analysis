@@ -28,7 +28,7 @@ The aim of this project was to design a dashboard that translates raw sales data
 
 
 ## Analysis
-<img src="images/RM_dashboard overview.png" alt="RM_dashboard overview">
+<img src="images/Inscribed dashboard overview.png" alt="Inscribed dashboard overview">
 
 The analysis of Inscribed’s sales performance data focuses on several Key Performance Indicators (KPIs) that highlight trends across overall revenue growth, purchasing behavior by customer segments, product category contributions, and regional strongholds. These measures provide a clear view of how sales have evolved over time, which types of customers drive the most purchases, and where geographic opportunities for expansion exist. By combining time‑series comparisons with category and segment breakdowns, the dashboard delivers a concise yet comprehensive overview of Inscribed’s business trajectory. 
 
