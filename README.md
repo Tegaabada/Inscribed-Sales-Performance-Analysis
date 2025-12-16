@@ -1,5 +1,5 @@
 # Inscribed-Sales-Performance-Analysis
- **Tools Used:**  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge"> (Pivot Tables, Charts,Timeline, Slicers)
+ **Tools Used:**  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge"> (Pivot Tables, Charts, Timeline, Slicers)
 ## Introduction
 Inscribed, a retail company with physical stores across the United States, is preparing for expansion. The sales team asked for a dashboard that could summarize sales performance at a glance and provide insights to guide strategic decisions. Their questions were clear: What is the summary of sales? How have sales patterns evolved over time? Which customers make the most purchases? Which regions or states represent strongholds? Which product categories generate the most revenue?
 This documentation gives insight into how those questions were answered, weaving together KPIs, trends, and breakdowns into a narrative that highlights Inscribed’s growth journey and the way forward for the business.
@@ -16,16 +16,11 @@ The aim of this project was to design a dashboard that translates raw sales data
 -	Conclusion
 
 ## Methodology
-#### Data preparation: 
-Cleaned the dates in the dataset ensuring the date columns had the right datatype, removed irrelevant fields from the dataset, and built a Date Table for YOY analysis.
-#### Pivot construction: 
-Monthly revenue, orders, quantity, discount, product categories, customer segments, and regions.
-#### Added Measures: 
-Defined KPIs (Revenue, Profit, Orders, Discount, Quantity) and YOY metrics.
-#### Dashboard design: 
-Balanced detail with readability, using KPI cards for quick insights and charts for context.
-#### Validation: 
-Cross‑checked totals across pivots to ensure consistency.
+**Data preparation:** Cleaned the dates in the dataset ensuring the date columns had the right datatype, removed irrelevant fields from the dataset, and built a Date Table for YOY analysis.
+** Pivot construction:** Monthly revenue, orders, quantity, discount, product categories, customer segments, and regions.
+** Added Measures:** Defined KPIs (Revenue, Profit, Orders, Discount, Quantity) and YOY metrics.
+** Dashboard design:** Balanced detail with readability, using KPI cards for quick insights and charts for context.
+** Validation:** Cross‑checked totals across pivots to ensure consistency.
 
 
 ## Analysis
@@ -92,7 +87,7 @@ Lastly to find out which product categories make the most sales, category pivot 
 ## Key Insights
 The anomaly in 2013 was not a random spike but a structural turning point in Inscribed’s business trajectory. Several interconnected factors explain this shift:
 •	Broad based monthly growth:
-Revenue increases were spread across multiple months — February, May, October, and December all showed significant gains compared to 2012. This indicates that growth was sustained throughout the year rather than concentrated in a single season, reflecting stronger demand patterns and improved sales execution.
+Revenue increases were spread across multiple months (February, May, October, and December) which all showed significant gains compared to 2012. This indicates that growth was sustained throughout the year rather than concentrated in a single season, reflecting stronger demand patterns and improved sales execution.
 •	Product mix shift toward Technology and Office Supplies:
 Technology sales rose by 39% and Office Supplies by 34%, overtaking Furniture as the leading categories. This shift suggests customers were increasingly drawn to higher value and more frequently purchased items, positioning Inscribed to capitalize on categories with stronger long term potential.
 •	Customer diversification:
