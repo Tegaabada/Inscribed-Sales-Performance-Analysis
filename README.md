@@ -35,7 +35,7 @@ The analysis of Inscribed’s sales performance data focuses on several Key Perf
 ### Performance Analysis
 
 ##### Key Performance Indicators (KPIs)
-<img width="426" height="961" src="Images/Insp-yearly KPI.png" alt="Yearly KPI">
+<img width="726" height="1061" src="Images/Insp-yearly KPI.png" alt="Yearly KPI">
 
 Answering the first question posed by the sales team, the following KPIs summarize the company’s sales performance across 2012, 2013, and 2014.
 Headline KPIs show the company’s overall trajectory:
