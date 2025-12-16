@@ -34,7 +34,7 @@ The analysis of Inscribed’s sales performance data focuses on several Key Perf
 
 ### Performance Analysis
 
-##### Key Performance Indicators (KPIs)
+##### 1. Key Performance Indicators (KPIs)
 <img width="726" height="1061" src="Images/Insp-yearly KPI.png" alt="Yearly KPI">
 
 Answering the first question posed by the sales team, the following KPIs summarize the company’s sales performance across 2012, 2013, and 2014.
@@ -46,14 +46,14 @@ Headline KPIs show the company’s overall trajectory:
 **Insight:** Analysing 2013 vs 2012, Revenue ▲29.3%, Orders ▲26.2% showcases a significant increase compared to 2012.
 This confirms steady growth, with 2013 as the turning point.
 
-#### Sales Patterns Over Time
+#### 2. Sales Patterns Over Time
 For the second query, "Pattern of sale Over Time",the time series pivots reveal the rhythm of growth:
 - 2012 vs 2011: Revenue ▼2.8%, Orders ▲7.1%.
 - 2013 vs 2012: Revenue ▲29.3%, Orders ▲26.2%.
 - 2014 vs 2013: Revenue ▲20.6%, Orders ▲29.2%.
 Monthly trends show that 2013’s uplift was broad‑based, with strong increases in February, May, October, and December. This uplift was not a seasonal spike but shows a structural shift in strategy.
 
-#### Customer Segments 
+#### 3. Customer Segments 
 <img width="926" height="661" src="Images/By CX-CAT.png" alt="Customer Segment">
 
 This gives insight into the question "What kind of customers make the most purchases"
@@ -64,7 +64,16 @@ Customer breakdown reveals who drives sales:
 
 **Insight:** Consumers segment remain largest, but Corporate growth was the standout driver in 2013, diversifying the customer base.
 
-#### Regional Breakdown 
+#### 4. Product Categories
+
+Lastly to find out which product categories make the most sales, category pivot table was created to reveal the the backbone of revenue:
+- 2012: Furniture $170.5K, Technology $162.8K, Office Supplies $137.2K.
+- 2013: Technology $226.1K (+39%), Office Supplies $183.5K (+34%), Furniture $198.9K (+17%).
+- 2014: Technology $272K, Office Supplies $246.5K, Furniture $215.4K.
+
+**Insight:** Technology and Office Supplies overtook Tthe Furniture category in 2013 and cemented their lead in 2014.
+
+#### 5. Regional Breakdown 
 <img width="726" height="461" src="images/Cases across ptnts.png" alt="Case severity across patients">
 
 To find out which regions/states have strongholds or large customer bases
@@ -73,17 +82,6 @@ Regional pivots highlight geographic strengths:
 - 2013: East $180.5K (+15%), West $187K (+34%), Central $147.4K (+43%), South $93.5K (+31%).
 
 **Insight:** East remained largest, but Central and West showed the fastest growth, especially in Corporate sales, marking them as strongholds for expansion.
-
-
-#### Product Categories
-<img width="726" height="461" src="images/Cases across ptnts.png" alt="Case severity across patients">
-
-Lastly to find out which product categories make the most sales, category pivot table was created to reveal the the backbone of revenue:
-- 2012: Furniture $170.5K, Technology $162.8K, Office Supplies $137.2K.
-- 2013: Technology $226.1K (+39%), Office Supplies $183.5K (+34%), Furniture $198.9K (+17%).
-- 2014: Technology $272K, Office Supplies $246.5K, Furniture $215.4K.
-
-**Insight:** Technology and Office Supplies overtook Tthe Furniture category in 2013 and cemented their lead in 2014.
 
 
 ## Key Insights
