@@ -1,5 +1,5 @@
 # Inscribed-Sales-Performance-Analysis
- **Tools Used:**  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge"> (Pivot Tables, Charts, Timeline, Slicers)
+ **Tools Used:**  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge"> [Pivot Tables, Charts, Timeline, Slicers]
 ## Introduction
 Inscribed, a retail company with physical stores across the United States, is preparing for expansion. The sales team asked for a dashboard that could summarize sales performance at a glance and provide insights to guide strategic decisions. Their questions were clear: What is the summary of sales? How have sales patterns evolved over time? Which customers make the most purchases? Which regions or states represent strongholds? Which product categories generate the most revenue?
 This documentation gives insight into how those questions were answered, weaving together KPIs, trends, and breakdowns into a narrative that highlights Inscribed’s growth journey and the way forward for the business.
