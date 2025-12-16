@@ -47,8 +47,6 @@ Headline KPIs show the company’s overall trajectory:
 This confirms steady growth, with 2013 as the turning point.
 
 #### Sales Patterns Over Time
-<img width="726" height="461" src="images/Readmitted cases by dpt.png" alt="RM_dashboard overview">
-
 For the second query, "Pattern of sale Over Time",the time series pivots reveal the rhythm of growth:
 - 2012 vs 2011: Revenue ▼2.8%, Orders ▲7.1%.
 - 2013 vs 2012: Revenue ▲29.3%, Orders ▲26.2%.
