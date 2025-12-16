@@ -54,7 +54,7 @@ For the second query, "Pattern of sale Over Time",the time series pivots reveal 
 Monthly trends show that 2013’s uplift was broad‑based, with strong increases in February, May, October, and December. This uplift was not a seasonal spike but shows a structural shift in strategy.
 
 #### Customer Segments 
-<img width="726" height="461" src="Images/By CX-CAT.png" alt="Customer Segment">
+<img width="926" height="661" src="Images/By CX-CAT.png" alt="Customer Segment">
 
 This gives insight into the question "What kind of customers make the most purchases"
 Customer breakdown reveals who drives sales:
