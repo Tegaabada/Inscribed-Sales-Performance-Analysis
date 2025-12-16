@@ -90,14 +90,15 @@ Lastly to find out which product categories make the most sales, category pivot 
 
 ## Key Insights
 The anomaly in 2013 was not a random spike but a structural turning point in Inscribed’s business trajectory. Several interconnected factors explain this shift:
-•	Broad based monthly growth:
+- Broad based monthly growth:
 Revenue increases were spread across multiple months (February, May, October, and December) which all showed significant gains compared to 2012. This indicates that growth was sustained throughout the year rather than concentrated in a single season, reflecting stronger demand patterns and improved sales execution.
-•	Product mix shift toward Technology and Office Supplies:
+- Product mix shift toward Technology and Office Supplies:
 Technology sales rose by 39% and Office Supplies by 34%, overtaking Furniture as the leading categories. This shift suggests customers were increasingly drawn to higher value and more frequently purchased items, positioning Inscribed to capitalize on categories with stronger long term potential.
-•	Customer diversification:
+- Customer diversification:
 Corporate revenue surged by 61% and Home Office by 40%, while Consumer growth was more modest at 11%. This diversification reduced reliance on the Consumer segment and broadened the customer base, strengthening resilience and opening new avenues for expansion.
-•	Regional strength in Central and West:
+- Regional strength in Central and West:
 The Central region grew by 43% and the West by 34%, outpacing the East and South. These regions became new strongholds, particularly for Corporate sales, highlighting geographic opportunities that were previously underdeveloped.
+
 Together, these factors show that 2013 marked a strategic inflection point. Inscribed was no longer simply growing incrementally; it was reshaping its business by selling more high value products, reaching new customer segments, and expanding into regions. This strategy was carried into 2014, where growth continued across categories, customers, and geographies, confirming that the company had entered a new phase of sustainable expansion.
 
 
