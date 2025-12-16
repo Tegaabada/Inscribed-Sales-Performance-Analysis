@@ -75,7 +75,7 @@ To find out which product categories make the most sales, category pivot table w
 **Insight:** Technology and Office Supplies overtook Tthe Furniture category in 2013 and cemented their lead in 2014.
 
 #### 5. Regional Breakdown 
-<img width="726" height="461" src="Images/Insc Regional-KPI.png" alt="Regional Breakdown">
+<img width="726" height="1061" src="Images/Insc Regional-KPI.png" alt="Regional Breakdown">
 
 Lastly, to find out which regions/states have strongholds or large customer bases
 Regional pivots highlight geographic strengths:
