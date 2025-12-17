@@ -116,9 +116,6 @@ This analysis provides clear answers to the sales team’s core questions:
 - Products: Technology and Office Supplies overtook Furniture to become the leading categories, driving sustained growth.
 
 Taken together, these insights confirm that Inscribed’s growth is structural, not seasonal. The company did not simply start selling more of the same products to the same customers in the same regions, it diversified across categories, broadening its customer base, and expanding geographically.
-
-
-#### Author - Tega Abada
 By focusing on Technology and Office Supplies, strengthening Corporate and Home Office segments, and investing in Central and West regions, Inscribed can replicate the success of 2013 and build a foundation for sustainable expansion. This analysis does more than report numbers; It equips the sales team and leadership with the right information to make confident, strategic decisions about the company’s next chapter.
 
-
+#### Author - Tega Abada
