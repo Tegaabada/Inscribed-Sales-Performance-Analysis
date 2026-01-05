@@ -1,5 +1,5 @@
 # Inscribed-Sales-Performance-Analysis
- **Tech Stack:**  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge"> [Pivot Tables, Conditional Formatting, Charts, Timeline, Slicers] <br>
+ **Tech Stack:**  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge"> [Pivot Tables, Conditional Formatting, Charts, Timeline, Slicers]. <br>
 **Tech Stack:** <span style="background-color:#217346; color:#FFFFFF; padding:3px 8px; border-radius:4px; font-family:Segoe UI, sans-serif; font-size:90%;">Excel</span>
 
 ## Introduction
